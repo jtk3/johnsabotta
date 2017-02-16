@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="SimpleViewer Title" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 1</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 2</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 3</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 4</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 5</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 6</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 7</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 8</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 9</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 10</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 11</caption>	
+</image>
+<image>
+	<filename>115-1503_IMG.jpg</filename>
+	<caption>Caption 12</caption>	
+</image>
+</simpleviewerGallery>

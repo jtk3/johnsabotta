@@ -1,0 +1,6 @@
+To: john@johnsabotta.com
+Subject: [subject]
+
+Name              [yourname]
+E-mail address    [address]        
+Message  [message]

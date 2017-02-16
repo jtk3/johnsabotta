@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/about.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>912</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/about.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>912</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/about.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/about.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/about.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/contact.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>912</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/contact.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>912</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/contact.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/contact.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/contact.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>2761</un:offset1>
+    <un:offset2>2887</un:offset2>
+    <un:linenum>52</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>2901</un:offset1>
+    <un:offset2>3027</un:offset2>
+    <un:linenum>53</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3062</un:offset1>
+    <un:offset2>3187</un:offset2>
+    <un:linenum>54</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3226</un:offset1>
+    <un:offset2>3351</un:offset2>
+    <un:linenum>55</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3369</un:offset1>
+    <un:offset2>3495</un:offset2>
+    <un:linenum>56</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3509</un:offset1>
+    <un:offset2>3634</un:offset2>
+    <un:linenum>57</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3761</un:offset1>
+    <un:offset2>3888</un:offset2>
+    <un:linenum>61</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3902</un:offset1>
+    <un:offset2>4029</un:offset2>
+    <un:linenum>62</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4043</un:offset1>
+    <un:offset2>4169</un:offset2>
+    <un:linenum>63</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4183</un:offset1>
+    <un:offset2>4309</un:offset2>
+    <un:linenum>64</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4323</un:offset1>
+    <un:offset2>4450</un:offset2>
+    <un:linenum>65</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4464</un:offset1>
+    <un:offset2>4590</un:offset2>
+    <un:linenum>66</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4718</un:offset1>
+    <un:offset2>4844</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4879</un:offset1>
+    <un:offset2>5005</un:offset2>
+    <un:linenum>71</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5044</un:offset1>
+    <un:offset2>5169</un:offset2>
+    <un:linenum>72</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5208</un:offset1>
+    <un:offset2>5333</un:offset2>
+    <un:linenum>73</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5351</un:offset1>
+    <un:offset2>5477</un:offset2>
+    <un:linenum>74</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5512</un:offset1>
+    <un:offset2>5637</un:offset2>
+    <un:linenum>75</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5768</un:offset1>
+    <un:offset2>5894</un:offset2>
+    <un:linenum>79</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6047</un:offset1>
+    <un:offset2>6173</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6333</un:offset1>
+    <un:offset2>6458</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6617</un:offset1>
+    <un:offset2>6742</un:offset2>
+    <un:linenum>82</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6900</un:offset1>
+    <un:offset2>7026</un:offset2>
+    <un:linenum>83</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>7065</un:offset1>
+    <un:offset2>7190</un:offset2>
+    <un:linenum>84</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>7333</un:offset1>
+    <un:offset2>7459</un:offset2>
+    <un:linenum>88</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>2761</un:offset1>
+    <un:offset2>2887</un:offset2>
+    <un:linenum>52</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>2901</un:offset1>
+    <un:offset2>3027</un:offset2>
+    <un:linenum>53</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3062</un:offset1>
+    <un:offset2>3187</un:offset2>
+    <un:linenum>54</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3226</un:offset1>
+    <un:offset2>3351</un:offset2>
+    <un:linenum>55</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3369</un:offset1>
+    <un:offset2>3495</un:offset2>
+    <un:linenum>56</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3509</un:offset1>
+    <un:offset2>3634</un:offset2>
+    <un:linenum>57</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3761</un:offset1>
+    <un:offset2>3888</un:offset2>
+    <un:linenum>61</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>3902</un:offset1>
+    <un:offset2>4029</un:offset2>
+    <un:linenum>62</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4043</un:offset1>
+    <un:offset2>4169</un:offset2>
+    <un:linenum>63</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4183</un:offset1>
+    <un:offset2>4309</un:offset2>
+    <un:linenum>64</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4323</un:offset1>
+    <un:offset2>4450</un:offset2>
+    <un:linenum>65</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4464</un:offset1>
+    <un:offset2>4590</un:offset2>
+    <un:linenum>66</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4718</un:offset1>
+    <un:offset2>4844</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>4879</un:offset1>
+    <un:offset2>5005</un:offset2>
+    <un:linenum>71</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5044</un:offset1>
+    <un:offset2>5169</un:offset2>
+    <un:linenum>72</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5208</un:offset1>
+    <un:offset2>5333</un:offset2>
+    <un:linenum>73</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5351</un:offset1>
+    <un:offset2>5477</un:offset2>
+    <un:linenum>74</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5512</un:offset1>
+    <un:offset2>5637</un:offset2>
+    <un:linenum>75</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5768</un:offset1>
+    <un:offset2>5894</un:offset2>
+    <un:linenum>79</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6047</un:offset1>
+    <un:offset2>6173</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6333</un:offset1>
+    <un:offset2>6458</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6617</un:offset1>
+    <un:offset2>6742</un:offset2>
+    <un:linenum>82</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6900</un:offset1>
+    <un:offset2>7026</un:offset2>
+    <un:linenum>83</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>7065</un:offset1>
+    <un:offset2>7190</un:offset2>
+    <un:linenum>84</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>7333</un:offset1>
+    <un:offset2>7459</un:offset2>
+    <un:linenum>88</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>7582</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>7582</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>1666</un:offset1>
+    <un:offset2>7567</un:offset2>
+    <un:linenum>36</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>330</un:offset1>
+    <un:offset2>1447</un:offset2>
+    <un:linenum>7</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>1457</un:offset1>
+    <un:offset2>7574</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'BODY' element has an event attribute ('ONLOAD'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5908</un:offset1>
+    <un:offset2>6177</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>5908</un:offset1>
+    <un:offset2>6177</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6191</un:offset1>
+    <un:offset2>6462</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6191</un:offset1>
+    <un:offset2>6462</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6476</un:offset1>
+    <un:offset2>6746</un:offset2>
+    <un:linenum>82</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6476</un:offset1>
+    <un:offset2>6746</un:offset2>
+    <un:linenum>82</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6760</un:offset1>
+    <un:offset2>7030</un:offset2>
+    <un:linenum>83</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>6760</un:offset1>
+    <un:offset2>7030</un:offset2>
+    <un:linenum>83</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>1457</un:offset1>
+    <un:offset2>7574</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>1457</un:offset1>
+    <un:offset2>7574</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains GIF images: Are they causing the screen to
+flicker? If so, please modify or remove the images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/index.html</un:fileurl>
+    <un:offset1>330</un:offset1>
+    <un:offset2>1447</un:offset2>
+    <un:linenum>7</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/location.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>912</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/location.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>912</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/location.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/location.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/location.html</un:fileurl>
+    <un:offset1>535</un:offset1>
+    <un:offset2>905</un:offset2>
+    <un:linenum>8</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2491</un:offset1>
+    <un:offset2>2594</un:offset2>
+    <un:linenum>50</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2632</un:offset1>
+    <un:offset2>2735</un:offset2>
+    <un:linenum>51</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2773</un:offset1>
+    <un:offset2>2875</un:offset2>
+    <un:linenum>52</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2913</un:offset1>
+    <un:offset2>3015</un:offset2>
+    <un:linenum>53</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3053</un:offset1>
+    <un:offset2>3156</un:offset2>
+    <un:linenum>54</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3194</un:offset1>
+    <un:offset2>3296</un:offset2>
+    <un:linenum>55</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3431</un:offset1>
+    <un:offset2>3535</un:offset2>
+    <un:linenum>59</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3573</un:offset1>
+    <un:offset2>3677</un:offset2>
+    <un:linenum>60</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3715</un:offset1>
+    <un:offset2>3818</un:offset2>
+    <un:linenum>61</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3856</un:offset1>
+    <un:offset2>3959</un:offset2>
+    <un:linenum>62</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3997</un:offset1>
+    <un:offset2>4101</un:offset2>
+    <un:linenum>63</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4139</un:offset1>
+    <un:offset2>4242</un:offset2>
+    <un:linenum>64</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4378</un:offset1>
+    <un:offset2>4481</un:offset2>
+    <un:linenum>68</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4519</un:offset1>
+    <un:offset2>4622</un:offset2>
+    <un:linenum>69</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4660</un:offset1>
+    <un:offset2>4762</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4800</un:offset1>
+    <un:offset2>4902</un:offset2>
+    <un:linenum>71</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4940</un:offset1>
+    <un:offset2>5043</un:offset2>
+    <un:linenum>72</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5081</un:offset1>
+    <un:offset2>5183</un:offset2>
+    <un:linenum>73</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5318</un:offset1>
+    <un:offset2>5421</un:offset2>
+    <un:linenum>77</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5577</un:offset1>
+    <un:offset2>5680</un:offset2>
+    <un:linenum>78</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5836</un:offset1>
+    <un:offset2>5938</un:offset2>
+    <un:linenum>79</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6094</un:offset1>
+    <un:offset2>6196</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6352</un:offset1>
+    <un:offset2>6455</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6493</un:offset1>
+    <un:offset2>6595</un:offset2>
+    <un:linenum>82</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6742</un:offset1>
+    <un:offset2>6845</un:offset2>
+    <un:linenum>86</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2491</un:offset1>
+    <un:offset2>2594</un:offset2>
+    <un:linenum>50</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2632</un:offset1>
+    <un:offset2>2735</un:offset2>
+    <un:linenum>51</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2773</un:offset1>
+    <un:offset2>2875</un:offset2>
+    <un:linenum>52</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>2913</un:offset1>
+    <un:offset2>3015</un:offset2>
+    <un:linenum>53</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3053</un:offset1>
+    <un:offset2>3156</un:offset2>
+    <un:linenum>54</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3194</un:offset1>
+    <un:offset2>3296</un:offset2>
+    <un:linenum>55</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3431</un:offset1>
+    <un:offset2>3535</un:offset2>
+    <un:linenum>59</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3573</un:offset1>
+    <un:offset2>3677</un:offset2>
+    <un:linenum>60</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3715</un:offset1>
+    <un:offset2>3818</un:offset2>
+    <un:linenum>61</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3856</un:offset1>
+    <un:offset2>3959</un:offset2>
+    <un:linenum>62</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>3997</un:offset1>
+    <un:offset2>4101</un:offset2>
+    <un:linenum>63</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4139</un:offset1>
+    <un:offset2>4242</un:offset2>
+    <un:linenum>64</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4378</un:offset1>
+    <un:offset2>4481</un:offset2>
+    <un:linenum>68</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4519</un:offset1>
+    <un:offset2>4622</un:offset2>
+    <un:linenum>69</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4660</un:offset1>
+    <un:offset2>4762</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4800</un:offset1>
+    <un:offset2>4902</un:offset2>
+    <un:linenum>71</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>4940</un:offset1>
+    <un:offset2>5043</un:offset2>
+    <un:linenum>72</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5081</un:offset1>
+    <un:offset2>5183</un:offset2>
+    <un:linenum>73</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5318</un:offset1>
+    <un:offset2>5421</un:offset2>
+    <un:linenum>77</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5577</un:offset1>
+    <un:offset2>5680</un:offset2>
+    <un:linenum>78</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5836</un:offset1>
+    <un:offset2>5938</un:offset2>
+    <un:linenum>79</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6094</un:offset1>
+    <un:offset2>6196</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6352</un:offset1>
+    <un:offset2>6455</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6493</un:offset1>
+    <un:offset2>6595</un:offset2>
+    <un:linenum>82</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6742</un:offset1>
+    <un:offset2>6845</un:offset2>
+    <un:linenum>86</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>6969</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>6969</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>1464</un:offset1>
+    <un:offset2>6954</un:offset2>
+    <un:linenum>33</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>184</un:offset1>
+    <un:offset2>1274</un:offset2>
+    <un:linenum>6</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>1283</un:offset1>
+    <un:offset2>6961</un:offset2>
+    <un:linenum>32</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'BODY' element has an event attribute ('ONLOAD'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5438</un:offset1>
+    <un:offset2>5684</un:offset2>
+    <un:linenum>78</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5438</un:offset1>
+    <un:offset2>5684</un:offset2>
+    <un:linenum>78</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5697</un:offset1>
+    <un:offset2>5942</un:offset2>
+    <un:linenum>79</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5697</un:offset1>
+    <un:offset2>5942</un:offset2>
+    <un:linenum>79</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5955</un:offset1>
+    <un:offset2>6200</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>5955</un:offset1>
+    <un:offset2>6200</un:offset2>
+    <un:linenum>80</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6213</un:offset1>
+    <un:offset2>6459</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOUT'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>6213</un:offset1>
+    <un:offset2>6459</un:offset2>
+    <un:linenum>81</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'A' element has an event attribute ('ONMOUSEOVER'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>1283</un:offset1>
+    <un:offset2>6961</un:offset2>
+    <un:linenum>32</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>1283</un:offset1>
+    <un:offset2>6961</un:offset2>
+    <un:linenum>32</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains GIF images: Are they causing the screen to
+flicker? If so, please modify or remove the images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/maingraph.htm</un:fileurl>
+    <un:offset1>184</un:offset1>
+    <un:offset2>1274</un:offset2>
+    <un:linenum>6</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2579</un:offset1>
+    <un:offset2>2786</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2837</un:offset1>
+    <un:offset2>2990</un:offset2>
+    <un:linenum>41</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>3041</un:offset1>
+    <un:offset2>3215</un:offset2>
+    <un:linenum>42</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>3293</un:offset1>
+    <un:offset2>3459</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2579</un:offset1>
+    <un:offset2>2786</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2837</un:offset1>
+    <un:offset2>2990</un:offset2>
+    <un:linenum>41</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>3041</un:offset1>
+    <un:offset2>3215</un:offset2>
+    <un:linenum>42</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>3293</un:offset1>
+    <un:offset2>3459</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>3744</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>3744</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>1957</un:offset1>
+    <un:offset2>3737</un:offset2>
+    <un:linenum>27</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2253</un:offset1>
+    <un:offset2>3649</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2438</un:offset1>
+    <un:offset2>3608</un:offset2>
+    <un:linenum>38</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>536</un:offset1>
+    <un:offset2>1956</un:offset2>
+    <un:linenum>9</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2579</un:offset1>
+    <un:offset2>2786</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'IMG' element has an event attribute ('ONCLICK'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>2837</un:offset1>
+    <un:offset2>2990</un:offset2>
+    <un:linenum>41</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'IMG' element has an event attribute ('ONCLICK'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>3041</un:offset1>
+    <un:offset2>3215</un:offset2>
+    <un:linenum>42</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'IMG' element has an event attribute ('ONCLICK'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>3293</un:offset1>
+    <un:offset2>3459</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'IMG' element has an event attribute ('ONCLICK'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>536</un:offset1>
+    <un:offset2>1956</un:offset2>
+    <un:linenum>9</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>1957</un:offset1>
+    <un:offset2>3737</un:offset2>
+    <un:linenum>27</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/pictures.html</un:fileurl>
+    <un:offset1>1957</un:offset1>
+    <un:offset2>3737</un:offset2>
+    <un:linenum>27</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/Templates/plain1.dwt</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>805</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/Templates/plain1.dwt</un:fileurl>
+    <un:offset1>166</un:offset1>
+    <un:offset2>805</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/Templates/plain1.dwt</un:fileurl>
+    <un:offset1>540</un:offset1>
+    <un:offset2>790</un:offset2>
+    <un:linenum>12</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/Templates/plain1.dwt</un:fileurl>
+    <un:offset1>486</un:offset1>
+    <un:offset2>797</un:offset2>
+    <un:linenum>11</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///Macintosh OS9/Current Projects/Gatewood page/gate/Templates/plain1.dwt</un:fileurl>
+    <un:offset1>486</un:offset1>
+    <un:offset2>797</un:offset2>
+    <un:linenum>11</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>

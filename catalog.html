@@ -1,0 +1,196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body><!--- QuickStore_catalog custom tag
+
+--->
+
+<!--- Initialize --->
+<cfparam name="attributes.action" default="">
+<cfparam name="attributes.dsn" default="">
+<cfparam name="attributes.thispage" default="#GetFileFromPath(GetTemplatePath())#">
+<cfparam name="attributes.querystring" default="?">
+
+<cfset thisPage = attributes.thisPage>
+<cfset queryString = attributes.queryString>
+
+<cfif attributes.action is "index">
+
+	<!--- Main page --->
+	
+	<table cellspacing="0" cellpadding="2" border="1" align="center">
+	<tr>
+	
+		<cfform action="#thisPage##queryString#do=search">
+
+	    <td><b>Search</b><cfinput type="Text" name="SearchTerms">
+		<input type="Submit" value="Search">
+		</td>
+		</cfform>
+	</tr>
+	<tr>
+	    <td>
+			<table border="0" align="center">
+			<tr><td colspan=2>
+			<b>Categories</b><p>
+			</td></tr>
+			<cfoutput query="application.ItemsShort" group="Name">
+			<tr>
+			<td><b><a href="#thisPage##queryString#CategoryID=#CategoryID#&do=list">#Name#</a></b></td>
+			<td>#Description#</td>
+			</tr>
+			</cfoutput>
+			</table>
+		</td>
+	</tr>
+	<tr>
+	    <td>
+		<cfoutput>
+		<b><a href="#thisPage##queryString#do=admin"><img src="less4netlogo.gif" width=300 height=50 alt="" border="0"></a></b>
+		</cfoutput>
+		</td>
+	</tr>
+	</table>
+
+
+<cfelseif attributes.action is "search">
+
+	<!--- Search results --->
+
+	
+	<cfquery name="ItemsLong" datasource="#attributes.dsn#">
+	
+		SELECT      ProductID, ProductName, DescriptionShort, ImageSmall
+		FROM         Products 
+		WHERE       (ProductName like '%#form.searchTerms#%'
+					OR Keywords like '%#form.searchTerms#%'
+					OR DescriptionShort like '%#form.searchTerms#%')
+		ORDER BY  ProductName
+		
+	</cfquery>
+	 
+	<table cellspacing="0" cellpadding="2" border="1" width=80% align="center">
+	<tr>
+	    <td><b>Search Results</b>
+		</td>
+	</tr>
+	<tr>
+	    <td>
+			<table border=0 >
+			<tr><td colspan=2>
+			<b>Products</b><p>
+			</td></tr>
+			<cfoutput query="ItemsLong">
+			<tr>
+			<td valign="top"><b><a 	href="#thisPage##queryString#ProductID=#ProductID#&do=detail">#ProductName#</a></b></td>
+			<td valign="top"><table border="1"><tr><td>#DescriptionShort#</td></tr><tr><td><img src="#ImageSmall#" border=0 align="right"></td></tr></table></td>
+			</tr>
+			</cfoutput>
+			</table>
+		</td>
+	</tr>
+	<tr>
+	    <td><cfoutput query="ItemsLong" maxrows=1><b>[<a href="#thisPage##queryString#">Home</a>]</b></cfoutput>
+		</td>
+	</tr>
+	</table>
+
+<cfelseif attributes.action is "list">
+
+	<!--- Product listing --->
+	
+	<cfquery name="ItemsLong" datasource="#attributes.dsn#">
+	
+		SELECT      Products.ProductID, Products.ProductName, 	Products.DescriptionShort, 	Products.ImageSmall, Categories.CategoryID, Categories.Name
+		FROM         Products, Categories 
+		WHERE       Products.CategoryID = Categories.CategoryID AND
+		                   (Categories.CategoryID = #URL.categoryID#)
+		ORDER BY  Products.ProductName
+		
+	</cfquery>
+	 
+	<table cellspacing="0" cellpadding="2" border="1" width=80% align="center">
+	<tr>
+	    <td><cfoutput query="ItemsLong" maxrows=1><b>#name#</b></cfoutput>
+		</td>
+	</tr>
+	<tr>
+	    <td>
+			<table border=0>
+			<tr><td colspan=2>
+			<b>Products</b><p>
+			</td></tr>
+			<cfoutput query="ItemsLong">
+			<tr>
+			<td valign="top"><b><a 	href="#thisPage##queryString#ProductID=#ProductID#&do=detail">#ProductName#</a></b></td>
+			<td valign="top"><img src="#ImageSmall#" border=0 align="left">#DescriptionShort#
+          </td>
+			</tr>
+			</cfoutput>
+			</table>
+		</td>
+	</tr>
+	<tr>
+	    <td><cfoutput query="ItemsLong" maxrows=1><b>[<a href="#thisPage##queryString#">Home</a>] [<a href="#thisPage##queryString#do=basket">View basket</a>]</b></cfoutput>
+		</td>
+	</tr>
+	</table>
+
+<cfelseif attributes.action is "detail">
+
+	<!--- Product detail --->
+	
+	<cfquery name="ItemsLong" datasource="#attributes.dsn#">
+	
+		SELECT      Products.ProductID, Products.ProductName, 	Products.DescriptionLong, Products.CategoryID, Products.UnitPrice, Products.ImageLarge, Categories.Name, Categories.CategoryID
+		FROM         Products, Categories 
+		WHERE       Products.CategoryID = Categories.CategoryID
+					AND (Products.ProductID = #URL.ProductID#)
+		
+	</cfquery>
+	 
+	<table cellspacing="0" cellpadding="2" border="1" width=80% align="center">
+	<tr>
+	    <td><cfoutput query="ItemsLong" maxrows=1><b>#ProductName#</b></cfoutput>
+		</td>
+	</tr>
+	<tr>
+	    <td>
+			<table border=0>
+			<tr><td colspan=2 width=100%>
+			<b>Detail</b><p>
+			</td></tr>
+			<cfoutput query="ItemsLong">
+			<tr>
+			<td valign="top" width=20%><b>#DollarFormat(UnitPrice)#</b></td>
+			<td valign="top" width=80%><img src="#ImageLarge#" border=0 align="left">#DescriptionLong#</td>
+			</tr>
+			<cfform action="#thisPage##queryString#do=action">
+			<tr><td colspan=2>
+			<input type="Hidden" name="Quantity_integerinteger" value="You must enter a quantity as a numeric value.">
+			<b>Quantity</b>
+			<cfinput type="Text" name="Quantity" value="1" validate="integer" required="No" size="2" maxlength="3">
+			<input type="Hidden" name="ProductID" value="#ProductID#">
+			<input type="Submit" name="action" value="Add to basket">
+			</td></tr>
+			</cfform>
+			</cfoutput>
+			</table>
+		</td>
+	</tr>
+	<tr>
+	    <td><cfoutput query="ItemsLong" maxrows=1><b>[<a href="#thisPage##queryString#do=list&CategoryID=#CategoryID#">#Name#</a>] [<a href="#thisPage##queryString#">Home</a>] [<a href="#thisPage##queryString#do=basket">View basket</a>]</b></cfoutput>
+		</td>
+	</tr>
+	</table>
+	
+</cfif>
+
+
+
+</body>
+</html>

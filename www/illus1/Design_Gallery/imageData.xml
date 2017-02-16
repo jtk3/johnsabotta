@@ -1,0 +1,91 @@
+<SIMPLEVIEWER_DATA maxImageDimension="1024" textColor="0xFFFFFF" frameColor="0xFFFFFF" backgroundColor="0x181818" frameWidth="0" stagePadding="0" thumbnailColumns="2" thumbnailRows="8" navPosition="left" navDirection="RTL" title="Design Gallery" imagePath="./Design_Gallery/images/" thumbPath="./Design_Gallery/thumbs/">
+	<IMAGE>
+		<NAME>aofasad.jpg</NAME>
+		<CAPTION>In-house advertisement for the American Orthopaedic Foot and Ankle Society</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>card.jpg</NAME>
+		<CAPTION>Business card for a local computer repair business</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>chrys.jpg</NAME>
+		<CAPTION>Cover design and art for local poetry magazine</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>CARDMEDF.jpg</NAME>
+		<CAPTION>Logo for Cardinal Media, a Northwest video production house</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>Temp.jpg</NAME>
+		<CAPTION>Business card for Cantrell and Associates</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>DSS3D.jpg</NAME>
+		<CAPTION>In-store informational poster art for electronics chain Video Only</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>CYP7b.jpg</NAME>
+		<CAPTION>Graphic for Cypress Biotechnical</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>DOE1.jpg</NAME>
+		<CAPTION>Graphic for slide presentation</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>luvara2.jpg</NAME>
+		<CAPTION>Interactive DVD menu design</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>OTC.jpg</NAME>
+		<CAPTION>Another video box design for the Washington Traddic Safety Commision</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>Tainterad1.jpg</NAME>
+		<CAPTION>Retail ad for Tainter and Associates</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>new66.jpg</NAME>
+		<CAPTION>Flyer for a direct-sale historical video about the famous highway, Route 66</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>RD.jpg</NAME>
+		<CAPTION>In-store retail poster art for Video Only</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>eventguide.jpg</NAME>
+		<CAPTION>Artwork for local non-profit organization</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>SportsEtcMay04-1-2.jpg</NAME>
+		<CAPTION>Magazine ad for non-profit organization</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>Walkabout.jpg</NAME>
+		<CAPTION>Magazine ad for non-profit organization</CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>sportmed.jpg</NAME>
+		<CAPTION>In-house ad for the AOFAS </CAPTION>
+	</IMAGE>
+
+	<IMAGE>
+		<NAME>go13.jpg</NAME>
+		<CAPTION>Interactive website interface</CAPTION>
+	</IMAGE>
+</SIMPLEVIEWER_DATA>

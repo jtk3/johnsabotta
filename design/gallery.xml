@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="design"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="5"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="1"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/aofasad.jpg" thumbURL="thumbnails/aofasad.jpg" linkURL="" linkTarget="" >
+	<caption>aofasad.jpg</caption>	
+</image><image imageURL="images/bound.jpg" thumbURL="thumbnails/bound.jpg" linkURL="" linkTarget="" >
+	<caption>bound.jpg</caption>	
+</image><image imageURL="images/des_18.jpg" thumbURL="thumbnails/des_18.jpg" linkURL="" linkTarget="" >
+	<caption>des_18.jpg</caption>	
+</image><image imageURL="images/eoabanner.jpg" thumbURL="thumbnails/eoabanner.jpg" linkURL="" linkTarget="" >
+	<caption>eoabanner.jpg</caption>	
+</image><image imageURL="images/event_guide_cover_2004__converted_.jpg" thumbURL="thumbnails/event_guide_cover_2004__converted_.jpg" linkURL="" linkTarget="" >
+	<caption>event_guide_cover_2004__converted_.jpg</caption>	
+</image><image imageURL="images/sportsetcad.jpg" thumbURL="thumbnails/sportsetcad.jpg" linkURL="" linkTarget="" >
+	<caption>sportsetcad.jpg</caption>	
+</image><image imageURL="images/walkabout.jpg" thumbURL="thumbnails/walkabout.jpg" linkURL="" linkTarget="" >
+	<caption>walkabout.jpg</caption>	
+</image><image imageURL="images/smbanner.jpg" thumbURL="thumbnails/smbanner.jpg" linkURL="" linkTarget="" >
+	<caption>smbanner.jpg</caption>	
+</image><image imageURL="images/des_12.jpg" thumbURL="thumbnails/des_12.jpg" linkURL="" linkTarget="" >
+	<caption>des_12.jpg</caption>	
+</image><image imageURL="images/des_14.jpg" thumbURL="thumbnails/des_14.jpg" linkURL="" linkTarget="" >
+	<caption>des_14.jpg</caption>	
+</image><image imageURL="images/tainterad1.jpg" thumbURL="thumbnails/tainterad1.jpg" linkURL="" linkTarget="" >
+	<caption>tainterad1.jpg</caption>	
+</image><image imageURL="images/cardmedf.jpg" thumbURL="thumbnails/cardmedf.jpg" linkURL="" linkTarget="" >
+	<caption>cardmedf.jpg</caption>	
+</image><image imageURL="images/redtag.jpg" thumbURL="thumbnails/redtag.jpg" linkURL="" linkTarget="" >
+	<caption>redtag.jpg</caption>	
+</image><image imageURL="images/des_7.jpg" thumbURL="thumbnails/des_7.jpg" linkURL="" linkTarget="" >
+	<caption>des_7.jpg</caption>	
+</image><image imageURL="images/des_1.jpg" thumbURL="thumbnails/des_1.jpg" linkURL="" linkTarget="" >
+	<caption>des_1.jpg</caption>	
+</image><image imageURL="images/des_20.jpg" thumbURL="thumbnails/des_20.jpg" linkURL="" linkTarget="" >
+	<caption>des_20.jpg</caption>	
+</image><image imageURL="images/des_3.jpg" thumbURL="thumbnails/des_3.jpg" linkURL="" linkTarget="" >
+	<caption>des_3.jpg</caption>	
+</image><image imageURL="images/premier.jpg" thumbURL="thumbnails/premier.jpg" linkURL="" linkTarget="" >
+	<caption>premier.jpg</caption>	
+</image><image imageURL="images/des_10.jpg" thumbURL="thumbnails/des_10.jpg" linkURL="" linkTarget="" >
+	<caption>des_10.jpg</caption>	
+</image><image imageURL="images/des_11.jpg" thumbURL="thumbnails/des_11.jpg" linkURL="" linkTarget="" >
+	<caption>des_11.jpg</caption>	
+</image><image imageURL="images/des_6.jpg" thumbURL="thumbnails/des_6.jpg" linkURL="" linkTarget="" >
+	<caption>des_6.jpg</caption>	
+</image><image imageURL="images/cyp7b.jpg" thumbURL="thumbnails/cyp7b.jpg" linkURL="" linkTarget="" >
+	<caption>cyp7b.jpg</caption>	
+</image><image imageURL="images/des_8.jpg" thumbURL="thumbnails/des_8.jpg" linkURL="" linkTarget="" >
+	<caption>des_8.jpg</caption>	
+</image><image imageURL="images/otc.jpg" thumbURL="thumbnails/otc.jpg" linkURL="" linkTarget="" >
+	<caption>otc.jpg</caption>	
+</image><image imageURL="images/railbox.jpg" thumbURL="thumbnails/railbox.jpg" linkURL="" linkTarget="" >
+	<caption>railbox.jpg</caption>	
+</image><image imageURL="images/des_5.jpg" thumbURL="thumbnails/des_5.jpg" linkURL="" linkTarget="" >
+	<caption>des_5.jpg</caption>	
+</image><image imageURL="images/printlayouts3.jpg" thumbURL="thumbnails/printlayouts3.jpg" linkURL="" linkTarget="" >
+	<caption>printlayouts3.jpg</caption>	
+</image><image imageURL="images/alcohol_box_projecttest4.jpg" thumbURL="thumbnails/alcohol_box_projecttest4.jpg" linkURL="" linkTarget="" >
+	<caption>alcohol_box_projecttest4.jpg</caption>	
+</image><image imageURL="images/fai.jpg" thumbURL="thumbnails/fai.jpg" linkURL="" linkTarget="" >
+	<caption>fai.jpg</caption>	
+</image><image imageURL="images/ct_logo.jpg" thumbURL="thumbnails/ct_logo.jpg" linkURL="" linkTarget="" >
+	<caption>ct_logo.jpg</caption>	
+</image><image imageURL="images/cdcover.jpg" thumbURL="thumbnails/cdcover.jpg" linkURL="" linkTarget="" >
+	<caption>cdcover.jpg</caption>	
+</image><image imageURL="images/cdfacefinal.jpg" thumbURL="thumbnails/cdfacefinal.jpg" linkURL="" linkTarget="" >
+	<caption>cdfacefinal.jpg</caption>	
+</image><image imageURL="images/royal2.jpg" thumbURL="thumbnails/royal2.jpg" linkURL="" linkTarget="" >
+	<caption>royal2.jpg</caption>	
+</image></simpleviewergallery>

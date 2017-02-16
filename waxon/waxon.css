@@ -1,0 +1,118 @@
+.body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #003300;
+	line-height: 20px;
+	font-weight: 100;
+	text-align: justify;
+}
+.callout {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #CCCCCC;
+	background-color: #003300;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	float: right;
+	width: 219px;
+	line-height: 20px;
+}
+.callout2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+}
+.calloutright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #CCCCCC;
+	background-color: #003300;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	width: 219px;
+	line-height: 20px;
+}
+.Header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #003300;
+	text-align: left;
+}
+.HeaderCopy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #CCFFFF;
+	text-align: center;
+}
+.header3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-weight: bolder;
+	color: #003300;
+}
+.header3Copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	font-weight: bolder;
+	color: #CCFFFF;
+}
+.largeheaderright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #003300;
+	text-align: left;
+}
+.calloutrightCopy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #CCCCCC;
+	background-color: #003300;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	width: 219px;
+	line-height: 20px;
+	list-style-type: disc;
+}
+.pictureright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #CCCCCC;
+	background-color: #003300;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	float: right;
+	line-height: 20px;
+	width: 280px;
+	height: 155px;
+}
+.bodycenter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #003300;
+	line-height: 20px;
+	font-weight: 100;
+	text-align: center;
+}

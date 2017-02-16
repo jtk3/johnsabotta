@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<simpleviewergallery
+	
+	title="illustration"
+	galleryStyle="MODERN"
+	thumbPosition="LEFT"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbRows="5"
+	thumbColumns="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="1"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath=""
+	thumbPath=""	
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""	
+>
+
+<image imageURL="images/autoquestparts.jpg" thumbURL="thumbnails/autoquestparts.jpg" linkURL="" linkTarget="" >
+	<caption>autoquestparts.jpg</caption>	
+</image><image imageURL="images/autoquest1.jpg" thumbURL="thumbnails/autoquest1.jpg" linkURL="" linkTarget="" >
+	<caption>autoquest1.jpg</caption>	
+</image><image imageURL="images/autoquest2.jpg" thumbURL="thumbnails/autoquest2.jpg" linkURL="" linkTarget="" >
+	<caption>autoquest2.jpg</caption>	
+</image><image imageURL="images/dragonstand.jpg" thumbURL="thumbnails/dragonstand.jpg" linkURL="" linkTarget="" >
+	<caption>dragonstand.jpg</caption>	
+</image><image imageURL="images/enhnd.jpg" thumbURL="thumbnails/enhnd.jpg" linkURL="" linkTarget="" >
+	<caption>enhnd.jpg</caption>	
+</image><image imageURL="images/habit.jpg" thumbURL="thumbnails/habit.jpg" linkURL="" linkTarget="" >
+	<caption>habit.jpg</caption>	
+</image><image imageURL="images/hose.jpg" thumbURL="thumbnails/hose.jpg" linkURL="" linkTarget="" >
+	<caption>hose.jpg</caption>	
+</image><image imageURL="images/throw.jpg" thumbURL="thumbnails/throw.jpg" linkURL="" linkTarget="" >
+	<caption>throw.jpg</caption>	
+</image><image imageURL="images/door1.jpg" thumbURL="thumbnails/door1.jpg" linkURL="" linkTarget="" >
+	<caption>door1.jpg</caption>	
+</image><image imageURL="images/door3.jpg" thumbURL="thumbnails/door3.jpg" linkURL="" linkTarget="" >
+	<caption>door3.jpg</caption>	
+</image><image imageURL="images/steamrobot2.jpg" thumbURL="thumbnails/steamrobot2.jpg" linkURL="" linkTarget="" >
+	<caption>steamrobot2.jpg</caption>	
+</image><image imageURL="images/sch450.jpg" thumbURL="thumbnails/sch450.jpg" linkURL="" linkTarget="" >
+	<caption>sch450.jpg</caption>	
+</image><image imageURL="images/bred.jpg" thumbURL="thumbnails/bred.jpg" linkURL="" linkTarget="" >
+	<caption>bred.jpg</caption>	
+</image><image imageURL="images/yak.jpg" thumbURL="thumbnails/yak.jpg" linkURL="" linkTarget="" >
+	<caption>yak.jpg</caption>	
+</image><image imageURL="images/nightg.jpg" thumbURL="thumbnails/nightg.jpg" linkURL="" linkTarget="" >
+	<caption>nightg.jpg</caption>	
+</image><image imageURL="images/super.jpg" thumbURL="thumbnails/super.jpg" linkURL="" linkTarget="" >
+	<caption>super.jpg</caption>	
+</image><image imageURL="images/lunatck.jpg" thumbURL="thumbnails/lunatck.jpg" linkURL="" linkTarget="" >
+	<caption>lunatck.jpg</caption>	
+</image><image imageURL="images/newcity3.jpg" thumbURL="thumbnails/newcity3.jpg" linkURL="" linkTarget="" >
+	<caption>newcity3.jpg</caption>	
+</image><image imageURL="images/kilmac.jpg" thumbURL="thumbnails/kilmac.jpg" linkURL="" linkTarget="" >
+	<caption>kilmac.jpg</caption>	
+</image><image imageURL="images/rmd.jpg" thumbURL="thumbnails/rmd.jpg" linkURL="" linkTarget="" >
+	<caption>rmd.jpg</caption>	
+</image><image imageURL="images/axeme.jpg" thumbURL="thumbnails/axeme.jpg" linkURL="" linkTarget="" >
+	<caption>axeme.jpg</caption>	
+</image><image imageURL="images/chinaray.jpg" thumbURL="thumbnails/chinaray.jpg" linkURL="" linkTarget="" >
+	<caption>chinaray.jpg</caption>	
+</image><image imageURL="images/chinaray2.jpg" thumbURL="thumbnails/chinaray2.jpg" linkURL="" linkTarget="" >
+	<caption>chinaray2.jpg</caption>	
+</image><image imageURL="images/island.jpg" thumbURL="thumbnails/island.jpg" linkURL="" linkTarget="" >
+	<caption>island.jpg</caption>	
+</image><image imageURL="images/pirate.jpg" thumbURL="thumbnails/pirate.jpg" linkURL="" linkTarget="" >
+	<caption>pirate.jpg</caption>	
+</image><image imageURL="images/launch2.jpg" thumbURL="thumbnails/launch2.jpg" linkURL="" linkTarget="" >
+	<caption>launch2.jpg</caption>	
+</image></simpleviewergallery>
